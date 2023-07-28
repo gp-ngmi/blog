@@ -80,17 +80,17 @@
 
  [[footer]]
   name = "Articles"
-  pageRef = "posts"
+  pageRef = "posts/"
   weight = 10
 
   [[footer]]
     name = "Tags"
-    pageRef = "tags"
+    pageRef = "tags/"
     weight = 20
 
   [[footer]]
     name = "About"
-    pageRef = "about"
+    pageRef = "about/"
     weight = 30
 
 # [[footer]]
