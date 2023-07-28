@@ -27,13 +27,13 @@
 
 [[main]]
   pre = "github"
-  name = ""
+  name = "git"
   url = "https://github.com/gp-ngmi"
   weight = 40
 
 [[main]]
   pre = "twitter"
-  name = "*"
+  name = "account"
   url = "https://twitter.com/b_bretzel"
   weight = 50
 
