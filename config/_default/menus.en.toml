@@ -12,28 +12,28 @@
 
 [[main]]
   name = "Articles"
-  pageRef = "/posts"
+  pageRef = "/posts/"
   weight = 10
 
 [[main]]
   name = "Tags"
-  pageRef = "/tags"
+  pageRef = "/tags/"
   weight = 20
 
 [[main]]
   name = "About"
-  pageRef = "/about"
+  pageRef = "/about/"
   weight = 30
 
 [[main]]
   pre = "github"
-  name = "git"
+  name = ""
   url = "https://github.com/gp-ngmi"
   weight = 40
 
 [[main]]
   pre = "twitter"
-  name = "account"
+  name = "*"
   url = "https://twitter.com/b_bretzel"
   weight = 50
 
