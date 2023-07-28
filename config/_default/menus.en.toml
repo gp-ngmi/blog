@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Articles"
-  pageRef = "/posts"
+  pageRef = "posts/"
   weight = 10
 
 [[main]]
   name = "Tags"
-  pageRef = "/tags"
+  pageRef = "tags/"
   weight = 20
 
 [[main]]
   name = "About"
-  pageRef = "/about"
+  pageRef = "about/"
   weight = 30
 
 [[main]]
