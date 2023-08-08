@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Articles"
-  pageRef = "/posts"
+  url = "https://bretzel.blog/posts"
   weight = 10
 
 [[main]]
   name = "Tags"
-  pageRef = "/tags"
+  url = "https://bretzel.blog/tags"
   weight = 20
 
 [[main]]
   name = "About"
-  pageRef = "/about"
+  url = "https://bretzel.blog/about"
   weight = 30
 
 [[main]]
@@ -80,17 +80,17 @@
 
  [[footer]]
   name = "Articles"
-  pageRef = "/posts"
+  url = "https://bretzel.blog/posts"
   weight = 10
 
   [[footer]]
     name = "Tags"
-    pageRef = "/tags"
+    url = "https://bretzel.blog/tags"
     weight = 20
 
   [[footer]]
     name = "About"
-    pageRef = "/about"
+    url = "https://bretzel.blog/about"
     weight = 30
 
 # [[footer]]
