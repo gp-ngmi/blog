@@ -45,4 +45,6 @@ https://opensea.io/0xF93D41E72F7B2b66E864979E2D28f4c124Befb56/collected
 * RACE-16 :
     - Score: 3.7
     - Position: 49 (out of 205 runners)
-
+* RACE-20 :
+    - Score: 5.2
+    - Position: 6 (out of 202 runners)
