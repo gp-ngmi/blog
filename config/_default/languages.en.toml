@@ -8,14 +8,14 @@ title = "Bretzel"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "img/wally.png"
-  secondaryLogo = "img/wally.png"
-  description = "My website"
+  #logo = "img/crocodile.jpg"
+  secondaryLogo = "img/crocodile.jpg"
+  description = "Blog"
   #copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Bretzel"
-   image = "img/wally.png"
+   image = "img/crocodile.jpg"
    #headline = "Bretzel"
    bio = "Smart contract security researcher"
    links = [
