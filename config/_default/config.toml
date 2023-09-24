@@ -18,7 +18,7 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 
 [params]
- favicon = "wally.png"  # Update this with the correct filename of your favicon image
+ favicon = "crocodile.jpg"  # Update this with the correct filename of your favicon image
 
 [imaging]
   anchor = 'Center'
